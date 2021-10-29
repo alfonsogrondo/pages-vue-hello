@@ -1,6 +1,7 @@
 #!/usr/bin/env sh
 # abort on errors
 set -e
+cd hello-world
 # build
 yarn build
 
