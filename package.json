@@ -8,9 +8,9 @@
   "license": "MIT",
   "private": false,
   "scripts": {    
-    "serve": "vue serve",    
-    "build": "vue build",    
-    "lint": "vue lint",    
+    "serve": "./hello-world vue serve",    
+    "build": "./hello-world vue build",    
+    "lint": "./hello-world vue lint",    
     "deploy": "sh deploy.sh"
   }
 }
