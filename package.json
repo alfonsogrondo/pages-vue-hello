@@ -1,0 +1,10 @@
+{
+  "name": "pages-vue-hello",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "repository": "git@github.com:alfonsogrondo/pages-vue-hello.git",
+  "author": "ahenderson <allan.henderson@visitscotland.com>",
+  "license": "MIT",
+  "private": false
+}
